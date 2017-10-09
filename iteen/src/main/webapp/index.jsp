@@ -70,7 +70,7 @@ body{
   </ul>
   <div id="tabs-1">
     <p></p>
-    <div id="img-content"><img src="/images/error/underConstruction.jpg"></img></div>
+    <div id="img-content"><img src="resources/images/error/underConstruction.jpg"></img></div>
   </div>
   <div id="tabs-2">
     <p>iTeen Technocraft Private Limited</p>
