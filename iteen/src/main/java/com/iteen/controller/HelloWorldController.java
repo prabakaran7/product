@@ -20,6 +20,6 @@ public class HelloWorldController {
 	@RequestMapping(value = "/pingServlet", method = RequestMethod.GET)
 	@ResponseBody
 	public ResponseEntity<String> pingServlet(){
-		return new ResponseEntity<>(HttpStatus.OK);
+		return new ResponseEntity(HttpStatus.OK);
 	}
 }
